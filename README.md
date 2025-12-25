@@ -25,12 +25,10 @@ I prioritize **hands-on learning**, real tooling, and disciplined fundamentals o
 ## Current Focus
 
 - Web application vulnerability research  
-- Bug hunting fundamentals (methodology > tools)  
+- Bug hunting  
 - **Android application penetration testing**
-  - APK analysis
   - Insecure storage & components
   - Authentication & logic flaws  
-- Malware analysis basics & reverse engineering concepts  
 - Building small, practical security tools  
 
 > Clarity beats noise. Fundamentals beat shortcuts.
@@ -68,7 +66,6 @@ This README will evolve as my skill set does.
 
 - Email: **NullTrace6767@proton.me**
 - GitHub: https://github.com/NullTrace67
-- LinkedIn: *(will be added)*
 
 ---
 ## PGP Key
@@ -94,5 +91,3 @@ AD9pAP4ivPa8QwE+ofB1nnqB/cuqASk67m1gcrhucZvceHspmwD9FNdL/DkF
 e1JZlDjdsQxYBBE4tgc+NDlquPtyz6fc9wo=
 =b1XX
 -----END PGP PUBLIC KEY BLOCK-----
-
-</details> ```
